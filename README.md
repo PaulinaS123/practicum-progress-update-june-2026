@@ -1,5 +1,9 @@
 # practicum-progress-update-june-2026
 
+## AD 350
+
+## Victoria Salomon
+
 ## Project Overview
 
 Over the past four weeks, I have continued developing my Travel Organization App, a full-stack web application designed to help users organize trips, activities, itineraries, polls, notifications, and group travel planning in a single platform.
